@@ -1,4 +1,4 @@
-# Tripwire Directory Integrity Script
+# Tripwire Directory Integrity Script in Linux (Fedora)
 
 This project implements a simple, Python-based directory integrity checker ("tripwire"), which records or audits the hash states of files in a monitored directory.
 
